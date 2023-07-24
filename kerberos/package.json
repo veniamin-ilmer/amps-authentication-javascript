@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "amps": "5.3.0-0.333340.b0dae99",
-    "kerberos": "1.1.2"
+    "kerberos": "2.0.1"
   },
   "devDependencies": {
     "@types/jasmine": "3.3.13",
